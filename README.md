@@ -1,2 +1,4 @@
-# bioSite
-My Biographic website about my friend Tyrone! 
+# CSD 340 Web Development with HTML and CSS
+## Contributors
+Chandra Bobba
+Bernardo Merino
