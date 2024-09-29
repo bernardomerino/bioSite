@@ -63,6 +63,12 @@ h3 {
     font-size: 2rem; /* Increased font size */
 }
 
+/* Resize images to half their original size */
+img {
+    width: 50%;
+    height: auto; /* Maintain aspect ratio */
+}
+
 footer {
     text-align: center;
     padding: 15px; /* Increased padding */
