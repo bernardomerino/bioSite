@@ -8,7 +8,7 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #f0f4f8;
     color: #333;
-    font-size: 18px; /* Increased base font size */
+    font-size: 20px; /* Increased base font size to make text larger */
 }
 
 .container {
@@ -19,10 +19,10 @@ body {
 
 header {
     text-align: center;
-    padding: 30px; /* Increased padding */
+    padding: 40px; /* Increased padding */
     background-color: #5D9CEC;
     color: white;
-    font-size: 2rem; /* Increased font size */
+    font-size: 2.5rem; /* Increased font size for the header */
 }
 
 nav ul {
@@ -30,43 +30,43 @@ nav ul {
     display: flex;
     justify-content: center;
     background-color: #A9DFBF;
-    padding: 15px; /* Increased padding */
+    padding: 20px; /* Increased padding */
 }
 
 nav ul li {
-    margin: 0 20px; /* Increased margin */
+    margin: 0 30px; /* Increased margin */
 }
 
 nav ul li a {
     text-decoration: none;
     color: #333;
     font-weight: bold;
-    font-size: 1.2rem; /* Increased font size */
+    font-size: 1.5rem; /* Increased font size */
 }
 
 main {
-    padding: 30px; /* Increased padding */
+    padding: 40px; /* Increased padding */
     background-color: #fff;
-    margin-top: 30px; /* Increased margin */
-    font-size: 1.1rem; /* Increased base font size for main content */
+    margin-top: 40px; /* Increased margin */
+    font-size: 2rem; /* Increased base font size for main content */
 }
 
 h1 {
-    font-size: 3rem; /* Increased font size */
+    font-size: 3.5rem; /* Increased font size */
 }
 
 h2 {
-    font-size: 2.5rem; /* Increased font size */
+    font-size: 3rem; /* Increased font size */
 }
 
 h3 {
-    font-size: 2rem; /* Increased font size */
+    font-size: 2.5rem; /* Increased font size */
 }
 
 footer {
     text-align: center;
-    padding: 15px; /* Increased padding */
+    padding: 20px; /* Increased padding */
     background-color: #F7D358;
-    margin-top: 30px; /* Increased margin */
-    font-size: 1.2rem; /* Increased font size */
+    margin-top: 40px; /* Increased margin */
+    font-size: 1.5rem; /* Increased font size */
 }
